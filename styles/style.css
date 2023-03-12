@@ -7,6 +7,13 @@
     text-align: center;
     
 }
+#quotePlace{
+    font-size: 30px;
+    color:black;
+    margin-right:auto;
+    margin-left: auto;
+    text-align: center;
+}
 #body{
     background-color: rgb(153, 117, 112);
 }
